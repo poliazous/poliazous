@@ -1,6 +1,6 @@
 # ✌ Olá, eu sou Poliana Souza!
 
-### 💻 Desenvolvedora Full Stack | JavaScript Entusiasta | Maker de Projetos com Arduino
+### 💻 Desenvolvedora Full Stack | Maker de Projetos com Arduino
 
 💡 **Sobre mim:** Apaixonada por tecnologia, programação e eletrônica. Adoro criar projetos inovadores que unem software e hardware, transformando ideias em soluções reais.
 
